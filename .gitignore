@@ -1,0 +1,13 @@
+#private data
+.env
+
+#data
+db.*
+
+#virtual env
+venv/*
+
+#cache
+property/__pycache__/*
+real_estate_agency/__pycache__/*
+.idea
